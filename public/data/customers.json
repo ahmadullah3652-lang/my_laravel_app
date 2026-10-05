@@ -1,0 +1,43 @@
+[
+  {
+    "name": "دادمحمد",
+    "email": "dadmohammad@gmail.com",
+    "image": "/images/257ee04f7058afeb776bfb385cafbf4d.jpg",
+    "description": "سیستم ډېر ښه او آسانه دی"
+  },
+
+  {
+    "name": "محمود",
+    "email": "mahmood@gmail.com",
+    "image": "/images/1 (3).JPG",
+    "description": "د اوبو حسابونه ډېر منظم شول"
+  },
+
+  {
+    "name": "حکمت الله",
+    "email": "hekmat@gmail.com",
+    "image": "/images/1 (19).JPG",
+    "description": "راپورونه ډېر ګټور دي"
+  },
+
+  {
+    "name": "اسدالله",
+    "email": "asad@gmail.com",
+    "image": "/images/3x4.jpg",
+    "description": "ډیر پر مختللی سیسټم ده"
+  },
+
+  {
+    "name": "ثنأالله",
+    "email": "sana@gmail.com",
+    "image": "/images/file_00000000d03c7208a4d975909cdaad8d.png",
+    "description": " سیسټم ډیر باوري شوي ده"
+  }, 
+
+  {
+    "name": "اسماعيل",
+    "email": "Ismail@gmail.com",
+    "image": "/images/1 (7).JPG",
+    "description":"ډیر خوشحال یو ستا سو د سیسټم څخه"
+  }
+]
