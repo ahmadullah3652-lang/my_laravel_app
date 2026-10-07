@@ -11,7 +11,7 @@ class BillController extends Controller
      */
     public function index()
     {
-        //
+        return view('bills.index');
     }
 
     /**
@@ -19,7 +19,7 @@ class BillController extends Controller
      */
     public function create()
     {
-        //
+        return view('bills.create');
     }
 
     /**
@@ -27,7 +27,7 @@ class BillController extends Controller
      */
     public function store(Request $request)
     {
-        //
+        return "دلته به معلومات ذخيره شي";
     }
 
     /**
@@ -35,7 +35,7 @@ class BillController extends Controller
      */
     public function show(string $id)
     {
-        //
+        return view('bills.show');
     }
 
     /**
@@ -43,7 +43,7 @@ class BillController extends Controller
      */
     public function edit(string $id)
     {
-        //
+        return view('bills.edit');
     }
 
     /**
@@ -51,7 +51,7 @@ class BillController extends Controller
      */
     public function update(Request $request, string $id)
     {
-        //
+        return "دلته به معلومات نوي شي";
     }
 
     /**
@@ -59,6 +59,6 @@ class BillController extends Controller
      */
     public function destroy(string $id)
     {
-        //
+        return "دلته به معلومات حذف شي";
     }
 }

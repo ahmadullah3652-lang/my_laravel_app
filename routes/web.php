@@ -59,6 +59,10 @@ Route::get('/terms', function () {
     return view('terms');
 });
 
+Route::get('/testview', function () {
+    return view('test');
+});
+
 // د کنټرولرونو روټونه
 Route::resource('users', UserController::class);
 Route::resource('customers', CustomerController::class);
